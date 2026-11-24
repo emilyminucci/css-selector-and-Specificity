@@ -1,0 +1,30 @@
+body{
+   font-family:Verdana;
+  background-color:#f4f1ff;
+}
+h1{
+    color:purple;
+    font-size: 48px;
+    text-align:center;
+}
+h2{
+    color:teal;
+}
+footer{
+    text-align:center;
+    font-size:14px;
+}
+.tagline{
+    color: navy;
+    text-align: center;
+}
+#top-banner{
+    background-color: gold;
+}
+.card{
+    background-color: white;
+}
+
+#join{
+    background-color: #e0f1fa;
+}
