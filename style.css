@@ -28,3 +28,36 @@ footer{
 #join{
     background-color: #e0f1fa;
 }
+.note{
+    font-weight: bold;
+}
+.button {
+    background-color: orange;
+    font-size:18px;
+    font-weight:bold;
+}
+
+h1,h2,h3{
+    font-family: Courier New;
+}
+
+li.highlight{
+    color: crimson;
+    font-weight: bold;
+
+}
+.card.featured{
+    background-color: lightpink;
+}
+
+.menu{
+    background-color: navy;
+}
+
+nav.menu a {
+    color:white;
+    font-size:20px;
+}
+.note.special{
+    color:green;
+}
